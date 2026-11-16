@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/g7104943/ai-excited-01-entry/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/g7104943/ai-excited-01-entry/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A cosmic pastry universe: a golden croissant nebula swirling through deep space, orbited by glazed donut planets and sparkling sugar-crystal stars.
+First Light: a colossal bloom of light erupts above a dark ridge while one small witness stands beneath it, arms raised — every pixel drawn procedurally by the program.
 
 ## Run it
 
@@ -13,5 +13,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
 ---
-
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
